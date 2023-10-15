@@ -4,7 +4,7 @@ import image2 from "/src/assets/black_car_in_black_background_hd_black_backgroun
 
 export default function News() {
   return (
-    <div className="bg-black" style={{ fontFamily: "'Comic Neue', cursive" }}>
+    <div className="bg-black font-Lato" >
 
 
 

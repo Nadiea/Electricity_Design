@@ -16,18 +16,15 @@ export default function Home() {
           alt="Ecology"
         />
         <div
-          className="flex justify-center text-white font-bold absolute top-1/3 md:top-40 md:left-1/2 transform -translate-x-1/2 -translate-y-1/2 md:block hidden"
-          style={{ fontFamily: "'Comic Neue', cursive" }}
+          className="flex justify-center font-Lato text-white font-bold absolute top-1/3 md:top-40 md:left-1/2 transform -translate-x-1/2 -translate-y-1/2 md:block hidden"
+
         >
           DISCOVER A MODERN OPPORTUNITY RELATED TO ECOLOGY
         </div>
         <div className="absolute md:top-40 top-36 md:left-[348px] ">
           <div
-            className="flex justify-center items-center md:text-4xl text-lg md:leading-[60px] text-white font-bold mt-12"
-            style={{
-              fontFamily:
-                "'Bebas Neue', sans-serif, 'Bodoni Moda', serif, 'Fredericka the Great', cursive,'Oswald', sans-serif, 'Poppins', sans-serif",
-            }}
+            className="flex justify-center items-center font-Lato md:text-2xl text-lg md:leading-[60px] text-white font-bold mt-12"
+          
           >
             <TypeAnimation
               sequence={["  WELCOME TO OUR COMPANY", 1000]}

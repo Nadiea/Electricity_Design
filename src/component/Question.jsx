@@ -1,7 +1,7 @@
 export default function Question() {
     
   return (
-    <div className=" bg-black" style={{ fontFamily: "'Comic Neue', cursive" }}>
+    <div className=" bg-black font-Lato">
       <div className=" w-12/12  mx-auto bg-lime-500 pt-9 border ">
         <p
           className=" flex justify-center  md:text-7xl text-2xl font-bold"

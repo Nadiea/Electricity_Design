@@ -4,20 +4,20 @@ export default function Service() {
   return (
     <div className="bg-black ">
       <div className="w-9/12 mx-auto p-4  ">
-        <h1 className=" animate__animated animate__fadeInLeft flex justify-center text-white font-serif  text-xl mb-5 pt-14"  style={{ fontFamily: "'Comic Neue', cursive" }}>
+        <h1 className=" animate__animated animate__fadeInLeft flex justify-center text-white  font-Lato  text-xl mb-5 pt-14" >
           Service
         </h1>
 
         <p
           className="animate__animated animate__bounce animate__repeat-5 5 flex justify-center items-center text-xl md:text-7xl leading-[60px] pb-10 text-white "
-          style={{ fontFamily: "'Comic Neue', cursive" }}
+         
         >
           What can I do for you!
         </p>
 
         <div
           className="  grid md:grid-cols-8 grid-cols-2 gap-4  "
-          style={{ fontFamily: "'Comic Neue', cursive" }}
+         
         >
           <div className=" grid col-span-5  ">
             <div>
